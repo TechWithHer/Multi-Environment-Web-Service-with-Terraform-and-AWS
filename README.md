@@ -46,7 +46,7 @@ Each environment is a separate **root module** with its **own state**, calling t
 
 ## Prerequisites
 
-- [Terraform](https://developer.hashicorp.com/terraform/install) >= 1.6
+- [Terraform](https://developer.hashicorp.com/terraform/install) >= 1.5
 - [Docker](https://docs.docker.com/get-docker/) running locally
 
 ## Usage

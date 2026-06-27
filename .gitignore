@@ -1,2 +1,9 @@
-*.tf.state
-*tf.state.backup 
+# Ignore the local terraform directory
+.terraform/
+
+# Also ignore local state files (they contain secrets!)
+*.tfstate
+*.tfstate.backup
+.terraform.tfstate.lock.info
+
+
