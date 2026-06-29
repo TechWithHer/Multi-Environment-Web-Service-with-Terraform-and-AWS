@@ -93,7 +93,8 @@ Try editing `environments/prod/terraform.tfvars` to add another instance, then `
 | Variable values via auto-loaded `terraform.tfvars` | each environment |
 | `.gitignore` + committed lock file best practice | `.gitignore` |
 
-## Extending this project (talking points for interviews)
+## Future Scope of this Project:
+This project was created for learning purposes, for handson and testing. 
 
 - **Remote state:** replace each `backend "local"` with `backend "s3"` (+ native locking) or an HCP Terraform `cloud {}` block to enable team collaboration and state locking.
 - **Swap the provider:** because environments only pass inputs to the module, the same pattern adapts to AWS (`aws_instance`/ECS), Azure, or Kubernetes by rewriting just the module internals.
