@@ -1,4 +1,4 @@
-# Multi-Environment Web Service with Terraform
+# Multi-Environment Web Service with Terraform 
 
 A small production-shaped Terraform project that provisions a containerized web service across **isolated `dev` and `prod` environments** using a single **reusable module**. It runs entirely on local **Docker** — no cloud account, no credentials, no cost — so anyone can clone it and `terraform apply` in under a minute.
 
