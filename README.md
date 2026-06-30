@@ -96,13 +96,17 @@ Try editing `environments/prod/terraform.tfvars` to add another instance, then `
 | `.gitignore` + committed lock file best practice | `.gitignore` |
 
 ## Future Scope of this Project:
-This project was created for learning purposes, for handson and testing. 
+This project was created for learning, handson and testing purposes only.
 
 - **Remote state:** replace each `backend "local"` with `backend "s3"` (+ native locking) or an HCP Terraform `cloud {}` block to enable team collaboration and state locking.
 - **Swap the provider:** because environments only pass inputs to the module, the same pattern adapts to AWS (`aws_instance`/ECS), Azure, or Kubernetes by rewriting just the module internals.
 - **CI/CD:** add a GitHub Actions workflow running `terraform fmt -check`, `validate`, and `plan` on pull requests.
 - **Policy as code:** enforce tagging/port rules with Sentinel or OPA in HCP Terraform.
 
+## Full Fledged Project
+
+ The full fledged project is in this repo: https://github.com/TechWithHer/aws-multi-env-platform
+ 
 ## License
 
 MIT — free to reuse.
