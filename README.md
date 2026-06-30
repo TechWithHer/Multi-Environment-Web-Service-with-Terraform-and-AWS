@@ -1,9 +1,10 @@
 # Multi-Environment Web Service with Terraform 
 
-A small production-shaped Terraform project that provisions a containerized web service across **isolated `dev` and `prod` environments** using a single **reusable module**. It runs entirely on local **Docker** — no cloud account, no credentials, no cost — so anyone can clone it and `terraform apply` in under a minute.
+A small production-shaped Terraform project that provisions a containerized web service across **isolated `dev` and `prod` environments** using a single **reusable module**. It runs entirely on local **Docker** — no cloud account, no credentials, no cost — to try, just clone it and `terraform apply` in under a minute.
 
 ## Purpose of this Repo
-> Built to demonstrate idiomatic Terraform: module composition, environment isolation, `for_each` scaling, input validation, and clean separation of configuration from values.
+
+Built to demonstrate idiomatic Terraform: module composition, environment isolation, `for_each` scaling, input validation, and clean separation of configuration from values.
 
 ## Architecture
 
