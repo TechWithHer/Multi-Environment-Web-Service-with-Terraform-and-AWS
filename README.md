@@ -113,6 +113,10 @@ This project was created for learning, handson and testing purposes only.
 ## Snapshots of the Deployed Product
 
 ![Screen 1](https://github.com/TechWithHer/Multi-Environment-Web-Service-with-Terraform/blob/50baba8048c1320a610b006e799e2956a9a1ebb7/snaps/1.png)
+![Screen 2](https://github.com/TechWithHer/Multi-Environment-Web-Service-with-Terraform/blob/50baba8048c1320a610b006e799e2956a9a1ebb7/snaps/2.png)
+![Screen 3](https://github.com/TechWithHer/Multi-Environment-Web-Service-with-Terraform/blob/50baba8048c1320a610b006e799e2956a9a1ebb7/snaps/3.png)
+![Screen 4](https://github.com/TechWithHer/Multi-Environment-Web-Service-with-Terraform/blob/50baba8048c1320a610b006e799e2956a9a1ebb7/snaps/4.png)
+
 
 
 ## Helpful Resources: 
