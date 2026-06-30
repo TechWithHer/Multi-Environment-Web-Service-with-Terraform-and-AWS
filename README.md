@@ -1,6 +1,8 @@
 # Multi-Environment Web Service with Terraform 
 
-![Terraform](https://img.shields.io/badge/Terraform-v1.5+-623CE4?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-Provider-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![IaC](https://img.shields.io/badge/Infrastructure-as-Code-blue?style=for-the-badge) ![Learning](https://img.shields.io/badge/Status-Learning_Project-success?style=for-the-badge)
+![Terraform](https://img.shields.io/badge/Terraform-v1.5+-623CE4?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-Provider-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![IaC](https://img.shields.io/badge/Infrastructure-as-Code-blue?style=for-the-badge) 
+
+![Learning](https://img.shields.io/badge/Status-Learning_Project-success?style=for-the-badge)
 
 A small production-shaped Terraform project that provisions a containerized web service across **isolated `dev` and `prod` environments** using a single **reusable module**. It runs entirely on local **Docker** — no cloud account, no credentials, no cost — to try, just clone it and `terraform apply` in under a minute.
 
