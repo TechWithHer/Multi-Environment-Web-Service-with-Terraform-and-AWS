@@ -115,9 +115,9 @@ This project was created for learning, handson and testing purposes only.
 
 ## Helpful Resources: 
 
-- LinkedIn NewsLetter
-- Learning Resources of #TechWithHer
-- Youtube Channel for Explaination
+- [Automation Pulse: DevOps + AI](https://www.linkedin.com/newsletters/automation-pulse-devops-ai-7173883868029022208/)
+- [Learning Resources of #TechWithHer](https://app.notion.com/p/ayushisingh/Learn-Complete-DevOps-with-TechWithHer-d60df188b81e8221a5570156f5f8b477)
+- [Youtube Channel for Explaination](https://www.youtube.com/@TechWithHer)
   
 ## License
 
