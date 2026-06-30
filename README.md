@@ -110,6 +110,15 @@ This project was created for learning, handson and testing purposes only.
 
  The full fledged project is in this repo: https://github.com/TechWithHer/aws-multi-env-platform
  
+## Snapshots of the Deployed Product
+
+
+## Helpful Resources: 
+
+- LinkedIn NewsLetter
+- Learning Resources of #TechWithHer
+- Youtube Channel for Explaination
+  
 ## License
 
 MIT — free to reuse.
